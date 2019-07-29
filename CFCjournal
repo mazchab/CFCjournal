@@ -42,7 +42,7 @@ While I intend to use some of those approaches through my thesis research and pr
 
 <July.09.2019--Week-2--Entry-3-------------------------------------------------------------------------------------------------------->
 <------------------------------------------------------------------------------------------------------------------------------------->
-Presenting our initial prototype ideas was very helpful in udnerstanding and structuring what is to be expected and aimed for during this class. Having access to professional and peer review, to present and listen to feedback is vital, especially because it is the first one we receive so far. So, after presenting a couple of ideas I had for the prototype, I received some confusion regarding the concept and it required additional explanation. This is very helpful for me since a practical thesis should be explainable in one sentence, which is a work-in-progress until now. 
+Presenting our initial prototype ideas was very helpful in understanding and structuring what is to be expected and aimed for during this class. Having access to professional and peer review, to present and listen to feedback is vital, especially because it is the first one we receive so far. So, after presenting a couple of ideas I had for the prototype, I received some confusion regarding the concept and it required additional explanation. This is very helpful for me since a practical thesis should be explainable in one sentence, which is a work-in-progress until now. 
 
 My aim for this prototype is not to build something challenging or new. My aim was much more basic than that at this point. Starting the exploratin into what kind of object will successfully compliment my thesis research is going to be full mistakes and experimentation. So, I don't expect to get it right from the first time, nor the second, probably not even the third, and listening to my peers' own explorations confirmed my choice. So, for this prototype I decided to choose from three options: A. The first idea is an electronic dice device that is used in countless boardgames. It is not the most advanced or new idea, but I want to experiment with the playfulness of this project and possible explore a less serious more fun approach to creation and recycling. B. The second idea I proposed is a stereo system recycled from discarded audio devices like speakers and car radios. Although this idea is not as playful as the first, it does however, bring music into the project, which another big interest of mine. C. The third idea is an LED matrix compiled from several different discarded devices' LEDs and put together to create a visual experience that can continuously remind the viewer of e-waste. 
 
@@ -51,3 +51,86 @@ Although non of the ideas is presenting something new or never-been-done-before.
 I noticed some of the remarks I received regarding my prototype, was a the futuristic remark. While most student proposed AR or VR or hologram etc, which are futuristic technologies, I wanted to refocus my study to a different futuristic view, one that does not necessarily take the status-quo as acceptable, and attempts to propose a different one. A research and building venture that can refine our relationship with technology to a healthier one or atleast help some of us identify it. My view of the future is not a world full of AR and wearables and gadgets only, but it is also the mountains of waste all of those gadgets will be one day.  
 <------------------------------------------------------------------------------------------------------------------------------------->
 <------------------------------------------------------------------------------------------------------------------------------------->
+
+
+
+
+<July.16.2019--Week-3--Entry-4-------------------------------------------------------------------------------------------------------->
+<------------------------------------------------------------------------------------------------------------------------------------->
+Deciding on what prototype to build in this stage presents a great challenge and a meaningful opportunity to explore a direction for my thesis journey and be able to receive feedback from real users that would help me focus or change that direction if necessary at an early stage. Thats why it was vital for me to choose the most impactful option and try to show as much as possible. Thats also why I chose to go with the stereo system made from recyclable materials. First, it allows me to play with something I am passionate about, music, and second, it also allows me to use my skills in fabrication within my thesis concept. In addition to that, the stereo present a healthy challenge for me at this point, because I'm not too sure I want to spend the time and effort required for physical computing a this point, especially without gauging the impact any of my objects will have on the audience within my thesis topic. 
+
+A stereo system will also be able to connect with people because everyone uses them and everyone likes good music. However, finding the necessary components will be challenging because this is my first attempt at finding used and discarded components. I personally have kept a few items at my home that I chose to use for this project, which are: computer speakers, audio amplifier and an old ikea shelving unit that was broken and unusable.  
+<------------------------------------------------------------------------------------------------------------------------------------->
+<------------------------------------------------------------------------------------------------------------------------------------->
+
+
+
+
+<July.18.2019--Week-3--Entry-5-------------------------------------------------------------------------------------------------------->
+<------------------------------------------------------------------------------------------------------------------------------------->
+In order for me to begin working on a project this scale, I find it useful to build a miniature prototype that helps me understand the shapes and the scales I'm working with, and also helps me understand the best way to interact with that object. So, after my initial sketches, I quickly moved into the miniature stage, and with the help of the laser machine, I cut miniature replicas of the wooden parts I needed to built the module. So, after building it, I started to studying it carefully. It took me 2 days to come to the conclusion that the shapes and the sizes I decided to go with were too big and the relation between the multiple objects was not working out. So, I started to consider new directions to go that would fit into the timeframe I had left to finish this prototype. 
+
+The problems I learned from the miniature prototype was that choosing to work with 3 various sizes boxes is first, wasteful because I did not need that much space inside, second, extremely difficult to move, third, and most importantly, did not look interactive, or inviting. It looked like 3 static boxes sitting beside each other, and will be too heavy for someone to constantly move around and replace. Also, because I was considering to use magnets and conductive tape for connectivity between speakers, the shape of the objects allowed very little to be creative with the layout. 
+
+Although I was worried that my initial idea did not work, I was glad I built the miniature model at an early stage, which gave me enough time to reconsider and redirect where I want this project to go, and have enough time to built a clean prototype. 
+<------------------------------------------------------------------------------------------------------------------------------------->
+<------------------------------------------------------------------------------------------------------------------------------------->
+
+
+
+<July.20.2019--Week-4--Entry-6-------------------------------------------------------------------------------------------------------->
+<------------------------------------------------------------------------------------------------------------------------------------->
+Finally, today I was able to finalize the shape for this prototype. Eventually, I decied to go with a very familiar shape for me, which is based on traditional coffee tables from the Levant areas in the Middle East. The shape is a hexagonal table-top, with legs stretching down from every side. On each side, there are intricate patterns that are usually inserted with shells that give various colors. A very popular item in traditional homes and one that is not usually thrown out after getting old.
+
+This was a great transition for my project because this relationship with the Middle East is also the inspiration for my thesis and the message behind it. Choosing the path of upcycling for the thesis project is directly related to the times I lived in Lebanon where upcycling of electronics is commong, especially in my family. This connection makes the prototype stronger and gives me strong direction to build it. 
+
+So, using that traditional coffee table as an inspiration quickly put me into a fast development stage, I quickly made the drawings and calculated the measurements. Today was a good day.
+
+On the parts side, at this point I have secured all the wood I need, through a few pieces I have kept at home, and the rest were recycled wood from the maker lab and around the building. I have also secured a subwoofer from an old bass amplifier, I tested it, and it was working. I also bought a used car amplifier for $15 from kijiji.com. To power this sculpture, I am planning to use a computer powersupply, which are very common in used computers stores. However, since this is my first attempt, I decided to purchase a brand new one, and learn the guide in order to know how to operate, and eventually how to hack it. The power supply provides plenty of 12V, but also 5V and 3.3V, which is great. I'm still looking for a stereo, but not sure about the connectivity. On one hand, using a car stereo makes sense, because it also requires 12V power supply and allows for easy connectivity for the users. However, I did not like that idea because car stereos are just like any other electronic device, they are quickly developing and making new ones every year and leave behind plenty of e-waste. It basically did not communicate my intended message about technology, and I had to change. 
+<------------------------------------------------------------------------------------------------------------------------------------->
+<------------------------------------------------------------------------------------------------------------------------------------->
+
+
+
+
+<July.21.2019--Week-4--Entry-7-------------------------------------------------------------------------------------------------------->
+<------------------------------------------------------------------------------------------------------------------------------------->
+Today, I was able to finally secure the rest of the parts I needed to finish this prototype. I decided to scrap the car stereo idea, and instead, my friend donated a used vinyl player that had a broken case. That was perfect for me, because vinyl represents a technology that has remained consistent and common even with the rise of more advanced and easier technology. It communicated my message perfectly. The only problem is I never owned one, and I did not know much about how it works and how to use it. I will need to remove it from its case, and insert somehow onto the scultpure. But so far, it solved several issues for me because I really did not like the car stereo idea, but I could not think of anything else.
+
+I also studied the guide book from the power supply to understand what each color means and how to use it (and break it) safely. 
+
+Now that I have all the parts, and I have all the plans and drawings, tomorrow I will start the fabrication process. It will be a long week, but a well planned and thoughout process. 
+<------------------------------------------------------------------------------------------------------------------------------------->
+<------------------------------------------------------------------------------------------------------------------------------------->
+
+
+
+
+<July.22.2019--Week-5--Entry-8-------------------------------------------------------------------------------------------------------->
+<------------------------------------------------------------------------------------------------------------------------------------->
+Today was a long and productive day. I was able to quickly move through the process of fabrication. I cut the legs of the structure, each consisting of two piece of wood cut in 30º angle and then stuck together to create a 60º angle for each corner of the hexagon. I was also able to make the table top from an old shelf and the bottom section from a used piece of wood in the maker lab. Everything was sanded and cleaned up, which made it look almost brand new. 
+
+Then, I took the power supply apart and cut all the plugs that I do not need. I also covered all the exposed wire from the this process and safely secured it with shrink wire and electric tape. I installed the connection plugs that are required to safely connect the power supply to the amplifier. After, i built the circuit on a table and made sure all parts are working before i start soldering anything. Once i made sure everything is working, i soldered everything and built the entire circuit and secured it.  
+<------------------------------------------------------------------------------------------------------------------------------------->
+<------------------------------------------------------------------------------------------------------------------------------------->
+
+
+
+
+<July.23.2019--Week-5--Entry-9-------------------------------------------------------------------------------------------------------->
+<------------------------------------------------------------------------------------------------------------------------------------->
+Today, i spent half of it on a laser cutting machine. On the scultpure side, I measured all the speakers and player to make the necessary cut outs using a laser cutting machine. After doing that, I installed the speakers and the middle section where the powersupply and the amplifier are attached to. The only thing left was the vinyl player, which I still did not take apart. After removing the cover and figuring out the shape that needs to be cut for this part to fit into, I ran it through the laser cutting machine and after a couple of failed attempts, I was finally able to install the vinyl player onto the sculpture. 
+
+Right now, I connected everything and its all working. However, I did not have enough time to run all the laser cut patterns through the machine and left the shop with only 2. However, I'm happy with the result because it communicates the idea which I believe is enough for this stage of the prorotype. 
+<------------------------------------------------------------------------------------------------------------------------------------->
+<------------------------------------------------------------------------------------------------------------------------------------->
+
+
+
+
+<July.27.2019--Week-5--Entry-10-------------------------------------------------------------------------------------------------------->
+<------------------------------------------------------------------------------------------------------------------------------------->
+The retreat went great. I received good feedback on the prototype, not all positive, but useful. I realized that my prototype was more refined than expected, which tends to impact people's reaction to it, and the way they perceive it.  
+<------------------------------------------------------------------------------------------------------------------------------------->
+<------------------------------------------------------------------------------------------------------------------------------------->
+
